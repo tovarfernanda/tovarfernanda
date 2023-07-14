@@ -1,35 +1,17 @@
+<!DOCTYPE html>
 <html>
-<head>
-<style>
-body {
- background-color: lightblue;
-}
-table, td, th {
- border: 1px solid;
- text-align: center;
-}
-table {
- width: 100%;
- border-collapse: collapse;
- color: blue;
-}
-</style>
-</head>
-<body>
-<center><h2>Horario de clases 6º "Grupo"</h2></center>
-<table>
- <tr>
- <th>Horas</th>
- <th>Lunes</th>
- </tr>
-  <tr>
- <td>materia</td>
- <td>materia</td>
- </tr>
- <tr>
- <td>materia</td>
- <td>materia</td>
- </tr>
-</table>
-</body>
-</html>
+   <head>
+      <title>practica</title>
+   </head>
+   <body>
+      <header>
+         <h1>Paginas Web</h1>
+      </header> 
+      <main>
+         <h2>Instituto Educativo Yolda</h2>
+         <p>Cervantes Tovar Fernanda </p>
+      </main>
+      <footer>
+      <footer>
+  </body>
+ </html>
